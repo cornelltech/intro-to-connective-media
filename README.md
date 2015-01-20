@@ -1,8 +1,10 @@
-# Introduction to Connective Media (INFO 5302)
+# Introduction to Connective Media 
 
-Instructor: Mor Naaman, Spring 2014<br/>
+INFO 5302<br/>
+Spring 2015<br/>
+Prof. Mor Naaman<br/>
 Location:<br/>
-Time:
+Thursdays, noon-2:45pm
 
 \#introCM
 
