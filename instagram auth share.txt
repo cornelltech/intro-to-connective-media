@@ -1,0 +1,22 @@
+Authorization Flow
+
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
+
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
+&scope=basic
+
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
+&scope=likes+comments
+
+curl -k \-F 'client_id=<YOUR CLIENT ID>' \
+    -F 'client_secret=<YOUR CLIENT SECRET>' \
+    -F 'grant_type=authorization_code' \
+    -F 'redirect_uri=http://tech.cornell.edu' \
+    -F 'code=<CODE YOU JUST GOT>' \https://api.instagram.com/oauth/access_token
+
+
+OR (Implicit Flow)
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
+
+then 
+curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT>
