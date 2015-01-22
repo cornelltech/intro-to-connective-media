@@ -3,7 +3,7 @@
 INFO 5302<br/>
 Spring 2015<br/>
 Prof. Mor Naaman<br/>
-Location:<br/>
+Touchdown (3rd floor, Cornell Tech)<br/>
 Thursdays, noon-2:45pm
 
 \#introCM
@@ -73,20 +73,20 @@ This is the week-by-week plan:
 
 | Week Number | Date | Title | Deep Dive | Special Topic | Tech Dive / Services | Comments |
 |:-----------:|:----:|:------|:----------|:--------------|:----------|:-------------|
-|1||Intro to EVERYTHING|||O-Auth||
-|2||1-1 COMMUNICATION SYSTEMS|Presence||Messaging Protocols<br/><br/>Skype, Snapchat, Email, Beam||
-|3||Groupware|||Slack, What’sApp, Hipmunk, Trello||
-|4||Communities and Forums||Community Design|Patients like me, Facebook Rooms, Reddit||
-|5||Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr||
-|6||(Social) News||Content Strategy|Reddit, BuzzFeed, NY Times, Medium, Circa||
-|7||Anonymous Networks|Anonymity|Measurement|Secret, YikYak, 4chan|**Special Guest**: YikYak co-founder Brooks Buffington, live from Georgia Tech!<br/><br/>**Social data explorer assignment due!**|
-|8||Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch||
-|9||Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org||
-|10||Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo||
-|11||Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen||
-|12||Location and Quantified Self\*|Privacy|Monetization|TBD||
-|13||Project Presentations||||**Data analysis assignment due! (class presentations)**|
-|14||Sharing Economy\*||A/B Testing|TBD||
+|1|1/22|Intro to EVERYTHING|||O-Auth||
+|2|1/29|1-1 COMMUNICATION SYSTEMS|Presence||Messaging Protocols<br/><br/>Skype, Snapchat, Email, Beam||
+|3|2/5|Groupware|||Slack, What’sApp, Hipmunk, Trello||
+|4|2/12|Communities and Forums||Community Design|Patients like me, Facebook Rooms, Reddit||
+|5|2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr||
+|6|2/26|(Social) News||Content Strategy|Reddit, BuzzFeed, NY Times, Medium, Circa||
+|7|3/5|Anonymous Networks|Anonymity|Measurement|Secret, YikYak, 4chan|**Special Guest**: YikYak co-founder Brooks Buffington, live from Georgia Tech!<br/><br/>**Social data explorer assignment due!**|
+|8|3/12|Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch||
+|9|3/19|Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org||
+|10|3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo||
+|11|4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen||
+|12|4/16|Location and Quantified Self\*|Privacy|Monetization|TBD||
+|13|4/23|Project Presentations||||**Data analysis assignment due! (class presentations)**|
+|14|4/30|Sharing Economy\*||A/B Testing|TBD||
 
 \* subject to change based on class input
 
