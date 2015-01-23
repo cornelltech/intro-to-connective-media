@@ -94,8 +94,8 @@ This is the week-by-week plan:
 
 | Week Number | Title |
 |:-----------:|:------|
-|2|Jim Hollan and Scott Stornetta. 1992. Beyond being there. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
-|3|Jonathan Grudin. 1994. Groupware and social dynamics: eight challenges for developers. Communications of the ACM 37, 1.|
+|2|Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
+|3|Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
 |4|Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
 |5|TBD|
 |6|Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
