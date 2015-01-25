@@ -73,9 +73,9 @@ This is the week-by-week plan:
 
 | Week/Date | Title | Deep Dive | Special Topic | Tech Dive / Services | Comments |
 |:----------|:------|:----------|:--------------|:----------|:-------------|
-|1<br/>1/22|Intro to EVERYTHING|||O-Auth||
-|2<br/>1/29|1-1 COMMUNICATION SYSTEMS|Presence||Messaging Protocols<br/><br/>Skype, Snapchat, Email, Beam||
-|3<br/>2/5|Groupware|||Slack, What’sApp, Hipmunk, Trello||
+|1<br/>1/22|Intro to Everything|||O-Auth||
+|2<br/>1/29|1-1 Communication Systems|Presence||Messaging Protocols<br/><br/>Skype, Snapchat, Facebook Messenger, Words with Friends||
+|3<br/>2/5|Groupware|||Slack, What'sApp, Hipmunk, Trello||
 |4<br/>2/12|Communities and Forums||Community Design|Patients like me, Facebook Rooms, Reddit||
 |5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr||
 |6<br/>2/26|(Social) News||Content Strategy|Reddit, BuzzFeed, NY Times, Medium, Circa||
