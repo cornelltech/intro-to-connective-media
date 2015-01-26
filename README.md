@@ -82,7 +82,7 @@ This is the week-by-week plan:
 |7<br/>3/5|Anonymous Networks|Anonymity|Measurement|Secret, YikYak, 4chan|**Special Guest**: YikYak co-founder Brooks Buffington, live from Georgia Tech!<br/><br/>**Social data explorer assignment due!**|
 |8<br/>3/12|Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch||
 |9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org||
-|10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo||
+|10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo|**Design assignment due! (class presentations)**|
 |11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen||
 |12<br/>4/16|Location and Quantified Self\*|Privacy|Monetization|TBD||
 |13<br/>4/23|Project Presentations||||**Data analysis assignment due! (class presentations)**|
