@@ -74,20 +74,20 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 ## Schedule
 
 | Week<br/>Date | Read | Respond | Class presentation | Due |
-|:----------:|:------|:----------|:--------------|:----------|
+|:----------:|:------|:----------:|:--------------|:----------|
 |1<br/>1/22|||||
 |2<br/>1/29|[Hollan 92](#hollan92)|[here](http://goo.gl/forms/FyaQJvyc66)|Jing & Sean||
 |3<br/>2/5|[Grudin 94](#grudin94)||Xiaoyang	& Shawn||
 |4<br/>2/12|[Kraut 12](#kraut12)||Rohit	& Brandon||
 |5<br/>2/19|TBD||Alap	& Muhammad||
 |6<br/>2/26|[Gilbert 13](#gilbert13)||Daniel & Oliver||
-|7<br/>3/5|[Boyd 12](#boyd12)<br/>[Schwartz 12](#schwartz12)||Jonathan & Joanna|**Social data explorer assignment**|
+|7<br/>3/5|[Boyd 12](#boyd12)<br/>[Schwartz 12](#schwartz12)||Jonathan & Joanna|**Social data explorer assignment due!**|
 |8<br/>3/12|[Bryant 05](#bryant05)||Jing & Sea||
 |9<br/>3/19|[Teodoro 14](#teodoro14)||Xiaoyang	& Shawn||
-|10<br/>3/26|TBD||Rohit & Brandon|**Design assignment (class presentations)**|
+|10<br/>3/26|TBD||Rohit & Brandon|**Design assignment due! (class presentations)**|
 |11<br/>4/9|[Konstan 12](#konstan12)||Alap & Muhammad||
 |12<br/>4/16|TBD||Daniel & Oliver||
-|13<br/>4/23||||**Data analysis assignment (class presentations)**|
+|13<br/>4/23||||**Data analysis assignment due! (class presentations)**|
 |14<br/>4/30|TBD||Jonathan & Joanna||
 
 ## Readings
@@ -99,7 +99,7 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 |4|<a name="kraut12"></a>Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
 |5|TBD|
 |6|<a name="gilbert13"></a>Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
-|7|<a name="boyd12"></a>7|danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
+|7|<a name="boyd12"></a>danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
 |8|<a name="bryant05"></a>Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
 |9|<a name="teodoro14"></a>Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
 |10|TBD|
