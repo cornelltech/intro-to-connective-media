@@ -82,7 +82,7 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 |5<br/>2/19|TBD||Alap	& Muhammad||
 |6<br/>2/26|[Gilbert 13](#gilbert13)||Daniel & Oliver||
 |7<br/>3/5|[Boyd 12](#boyd12)<br/>[Schwartz 12](#schwartz12)||Jonathan & Joanna|**Social data explorer assignment due!**|
-|8<br/>3/12|[Bryant 05](#bryant05)||Jing & Sea||
+|8<br/>3/12|[Bryant 05](#bryant05)||Jing & Sean||
 |9<br/>3/19|[Teodoro 14](#teodoro14)||Xiaoyang	& Shawn||
 |10<br/>3/26|TBD||Rohit & Brandon|**Design assignment due! (class presentations)**|
 |11<br/>4/9|[Konstan 12](#konstan12)||Alap & Muhammad||
