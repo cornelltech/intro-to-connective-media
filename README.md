@@ -98,12 +98,12 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 |3|<a name="grudin94"></a>Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
 |4|<a name="kraut12"></a>Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
 |5|TBD|
-|6|<a name="gilbert13"></a>Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
-|7|<a name="boyd12"></a>danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
-|8|<a name="bryant05"></a>Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
-|9|<a name="teodoro14"></a>Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
+|6|<a name="gilbert13"></a>Eric Gilbert. 2013. [Widespread underprovision on Reddit](https://confluence.cornell.edu/download/attachments/301957968/gilbert13.pdf?api=v2). In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
+|7|<a name="boyd12"></a>danah boyd. 2012. [The politics of "real names"](https://confluence.cornell.edu/download/attachments/301957968/boyd12.pdf?api=v2). Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
+|8|<a name="bryant05"></a>Susan L. Bryant, Andrea Forte, and Amy Bruckman. [Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia](https://confluence.cornell.edu/download/attachments/301957968/bryant05.pdf?api=v2). In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
+|9|<a name="teodoro14"></a>Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. [The motivations and experiences of the on-demand mobile workforce](https://confluence.cornell.edu/download/attachments/301957968/teodoro14.pdf?api=v2). In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
 |10|TBD|
-|11|<a name="konstan12"></a>Konstan, Joseph A., and John Riedl. "Recommender systems: from algorithms to user experience." User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
+|11|<a name="konstan12"></a>Konstan, Joseph A., and John Riedl. [Recommender systems: from algorithms to user experience](https://confluence.cornell.edu/download/attachments/301957968/konstan12.pdf?api=v2). User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
 |12|TBD|
 |13||
 |14|TBD|
