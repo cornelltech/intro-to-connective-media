@@ -18,6 +18,10 @@ This course, the core course in the Connective Media Systems Technologies track,
 
 At the completion of the course, students will become familiar with the various factors that are in play in designing and building Connective Media services in various contexts; recognize key factors in conducting academic research on Connective Media services; understand important features of Connective Media, design and prototype new Connective Media applications, analyze Connective Media datasets, and understand the research issues in this field. 
 
+## Syllabus
+
+The week-by-week plan for class material is available [here](wiki/Syllabus).
+
 ## Class Requirements
 
 ### Readings
@@ -69,41 +73,37 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 
 ## Schedule
 
-This is the week-by-week plan:
-
-| Week/Date | Title | Deep Dive | Special Topic | Tech Dive / Services | Comments |
-|:----------|:------|:----------|:--------------|:----------|:-------------|
-|1<br/>1/22|Intro to Everything|||O-Auth||
-|2<br/>1/29|1-1 Communication Systems|Presence||Messaging Protocols<br/><br/>Skype, Snapchat, Facebook Messenger, Words with Friends||
-|3<br/>2/5|Groupware|||Slack, What'sApp, Hipmunk, Trello||
-|4<br/>2/12|Communities and Forums||Community Design|Patients like me, Facebook Rooms, Reddit||
-|5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr||
-|6<br/>2/26|(Social) News||Content Strategy|Reddit, BuzzFeed, NY Times, Medium, Circa||
-|7<br/>3/5|Anonymous Networks|Anonymity|Measurement|Secret, YikYak, 4chan|**Special Guest**: YikYak co-founder Brooks Buffington, live from Georgia Tech!<br/><br/>**Social data explorer assignment due!**|
-|8<br/>3/12|Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch||
-|9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org||
-|10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo|**Design assignment due! (class presentations)**|
-|11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen||
-|12<br/>4/16|Location and Quantified Self\*|Privacy|Monetization|TBD||
-|13<br/>4/23|Project Presentations||||**Data analysis assignment due! (class presentations)**|
-|14<br/>4/30|Sharing Economy\*||A/B Testing|TBD||
-
-\* subject to change based on class input
+| Week<br/>Date | Read | Respond | Class presentation | Due |
+|:----------:|:------|:----------|:--------------|:----------|
+|1<br/>1/22|||||
+|2<br/>1/29|[Hollan 92](#hollan92)|[here](http://goo.gl/forms/FyaQJvyc66)|Jing & Sean||
+|3<br/>2/5|[Grudin 94](#grudin94)||Xiaoyang	& Shawn||
+|4<br/>2/12|[Kraut 12](#kraut12)||Rohit	& Brandon||
+|5<br/>2/19|TBD||Alap	& Muhammad||
+|6<br/>2/26|[Gilbert 13](#gilbert13)||Daniel & Oliver||
+|7<br/>3/5|[Boyd 12](#boyd12)<br/>[Schwartz 12](#schwartz12)||Jonathan & Joanna|**Social data explorer assignment**|
+|8<br/>3/12|[Bryant 05](#bryant05)||Jing & Sea||
+|9<br/>3/19|[Teodoro 14](#teodoro14)||Xiaoyang	& Shawn||
+|10<br/>3/26|TBD||Rohit & Brandon|**Design assignment (class presentations)**|
+|11<br/>4/9|[Konstan 12](#konstan12)||Alap & Muhammad||
+|12<br/>4/16|TBD||Daniel & Oliver||
+|13<br/>4/23||||**Data analysis assignment (class presentations)**|
+|14<br/>4/30|TBD||Jonathan & Joanna||
 
 ## Readings
 
 | Week Number | Title |
 |:-----------:|:------|
-|2|Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
-|3|Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
-|4|Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
+|<a name="hollan92"></a>2|Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
+|<a name="grudin94"></a>3|Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
+|<a name="kraut12"></a>4|Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
 |5|TBD|
-|6|Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
-|7|danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
-|8|Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
-|9|Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
+|<a name="gilbert13"></a>6|Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
+|<a name="boyd12"></a><a name="schwartz12"></a>7|danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
+|<a name="bryant05"></a>8|Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
+|<a name="teodoro14"></a>9|Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
 |10|TBD|
-|11|Konstan, Joseph A., and John Riedl. "Recommender systems: from algorithms to user experience." User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
+|<a name="konstan12"></a>11|Konstan, Joseph A., and John Riedl. "Recommender systems: from algorithms to user experience." User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
 |12|TBD|
 |13||
 |14|TBD|
@@ -115,8 +115,8 @@ This is the week-by-week plan:
 Class presentations will be assigned by the instructor, based on student preferences. 
 
 The basic presentations should be 10 minutes long, strictly enforced, but the presenters should lead an additional 10-15 minutes of discussion. The initial presentation should briefly touch on:
--	The main design decisions made by the different applications/services
--	How these decisions impact the service in different ways, including: types of usage, nature of content, retention, patterns of consumption etc.
+-   The main design decisions made by the different applications/services
+-   How these decisions impact the service in different ways, including: types of usage, nature of content, retention, patterns of consumption etc.
 
 The presenters will use examples and screenshots from the services they compare, and for extra credit, identify and discuss additional scholarly articles that are related to the service types. These articles could be a) describing a related theory, or b) studying and providing insights about the services or other related platforms and systems. I will be available to provide some pointers and directions as needed; you will need to approach me by Sunday before your presentation, at the latest, to get help.
 
