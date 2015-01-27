@@ -20,7 +20,7 @@ At the completion of the course, students will become familiar with the various 
 
 ## Syllabus
 
-The week-by-week plan for class material is available [here](Syllabus).
+The week-by-week plan for class material is available [here](./wiki/Syllabus).
 
 ## Class Requirements
 
