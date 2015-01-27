@@ -20,7 +20,7 @@ At the completion of the course, students will become familiar with the various 
 
 ## Syllabus
 
-The week-by-week plan for class material is available [here](./wiki/Syllabus).
+The week-by-week plan for class material is available [here](http://github.com/cornelltech/intro-to-connective-media/wiki/Syllabus).
 
 ## Class Requirements
 
@@ -94,16 +94,16 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 
 | Week Number | Title |
 |:-----------:|:------|
-|<a name="hollan92"></a>2|Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
-|<a name="grudin94"></a>3|Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
-|<a name="kraut12"></a>4|Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
+|2|<a name="hollan92"></a>Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
+|3|<a name="grudin94"></a>Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
+|4|<a name="kraut12"></a>Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
 |5|TBD|
-|<a name="gilbert13"></a>6|Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
-|<a name="boyd12"></a><a name="schwartz12"></a>7|danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
-|<a name="bryant05"></a>8|Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
-|<a name="teodoro14"></a>9|Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
+|6|<a name="gilbert13"></a>Eric Gilbert. 2013. Widespread underprovision on Reddit. In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
+|7|<a name="boyd12"></a>7|danah boyd. 2012. The politics of "real names". Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
+|8|<a name="bryant05"></a>Susan L. Bryant, Andrea Forte, and Amy Bruckman. Becoming Wikipedian: transformation of participation in a collaborative online encyclopedia. In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting group work (GROUP '05).|
+|9|<a name="teodoro14"></a>Rannie Teodoro, Pinar Ozturk, Mor Naaman, Winter Mason, and Janne Lindqvist. 2014. The motivations and experiences of the on-demand mobile workforce. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing (CSCW '14).|
 |10|TBD|
-|<a name="konstan12"></a>11|Konstan, Joseph A., and John Riedl. "Recommender systems: from algorithms to user experience." User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
+|11|<a name="konstan12"></a>Konstan, Joseph A., and John Riedl. "Recommender systems: from algorithms to user experience." User Modeling and User-Adapted Interaction 22, no. 1-2 (2012): 101-123.|
 |12|TBD|
 |13||
 |14|TBD|
