@@ -114,13 +114,13 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 
 Class presentations will be assigned by the instructor, based on student preferences. 
 
-The basic presentations should be 10 minutes long, strictly enforced, but the presenters should lead an additional 10-15 minutes of discussion. The initial presentation should briefly touch on:
+The basic presentations should be 15 minutes long, strictly enforced, but the presenters should lead an additional 10-15 minutes of discussion. The initial presentation should briefly touch on:
 -   The main design decisions made by the different applications/services
 -   How these decisions impact the service in different ways, including: types of usage, nature of content, retention, patterns of consumption etc.
 
 The presenters will use examples and screenshots from the services they compare, and for extra credit, identify and discuss additional scholarly articles that are related to the service types. These articles could be a) describing a related theory, or b) studying and providing insights about the services or other related platforms and systems. I will be available to provide some pointers and directions as needed; you will need to approach me by Sunday before your presentation, at the latest, to get help.
 
-The presentation and discussion after can refer to past/future trends for this category. What's next for these types of services? Bonus points for original ways to lead or encourage discussion and participation! 
+The presentation and discussion after may also refer to past/future trends for this category. What's next for these types of services? Bonus points for original ways to lead or encourage discussion and participation! 
 
 Your presentation grade will be based on the quality and clarity of your presentation and the discussion.
 
