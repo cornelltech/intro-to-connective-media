@@ -77,7 +77,7 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 |:----------:|:------|:----------:|:--------------|:----------|
 |1<br/>1/22|||||
 |2<br/>1/29|[Hollan 92](#hollan92)|[here](http://goo.gl/forms/FyaQJvyc66)|Jing & Sean||
-|3<br/>2/5|[Grudin 94](#grudin94)||Xiaoyang	& Shawn||
+|3<br/>2/5|[Grudin 94](#grudin94)|[here](http://goo.gl/forms/gdNvQwhzjB)|Xiaoyang	& Shawn||
 |4<br/>2/12|[Kraut 12](#kraut12)||Rohit	& Brandon||
 |5<br/>2/19|TBD||Alap	& Muhammad||
 |6<br/>2/26|[Gilbert 13](#gilbert13)||Daniel & Oliver||
