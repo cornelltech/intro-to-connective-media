@@ -8,6 +8,8 @@ Thursdays, noon-2:45pm
 
 \#introCM
 
+## [Week-by-week deliverables and requirements](https://github.com/cornelltech/intro-to-connective-media/wiki/Schedule-for-Deliverables)
+
 Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design. 
 
 This course will cover the socio-technical, design and product background that is paramount to operating in the connective media landscape.
