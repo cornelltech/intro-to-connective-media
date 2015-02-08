@@ -35,8 +35,9 @@ Each week (see schedule below) you will be asked to sign up, use, and analyze a 
 ### Assignments
 
 There are three technical assignments (group projects) to be submitted throughout the semester: a social data explorer; connective media design; and data analysis. The details of the assignments are provided separately. 
-Presentation
-Each student will participate in one group class presentation about a specific set of Connective Media technologies. Each presentation will summarize the key theoretical, design and product differences between the systems and services in a specific group of technologies. Exact instructions and guidelines are below. 
+
+### Presentation
+Each student will participate in one group class presentation about a specific set of Connective Media technologies. Each presentation will summarize the key theoretical, design and product differences between the systems and services in a specific group of technologies. Exact instructions and guidelines [are below](#presreq). 
 
 ### Attendance
 
@@ -110,7 +111,8 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 
 ## Class Presentations
 
-### Requirements and procedures
+<a name="presreq">
+### Requirements and procedures </a>
 
 Class presentations will be assigned by the instructor, based on student preferences. 
 
