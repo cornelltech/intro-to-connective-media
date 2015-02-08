@@ -96,7 +96,7 @@ M.Eng and MBA students may take the class for a pass-fail grade with prior appro
 |:-----------:|:------|
 |2|<a name="hollan92"></a>Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://www.cs.colorado.edu/~palen/courses/5919/CourseReadings/Beyond%20being%20there-hollan.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92).|
 |3|<a name="grudin94"></a>Jonathan Grudin. 1994. [Groupware and social dynamics: eight challenges for developers](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Grudin-CACM-94.pdf). Communications of the ACM 37, 1.|
-|4|<a name="kraut12"></a>Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. Chapter 1.|
+|4|<a name="kraut12"></a>Kraut, Robert E., Paul Resnick. Building successful online communities: Evidence-based social design. MIT Press, 2012. [Chapter 1](http://kraut.hciresearch.org/sites/kraut.hciresearch.org/files/articles/Resnick10-Intro-current.pdf).|
 |5|TBD|
 |6|<a name="gilbert13"></a>Eric Gilbert. 2013. [Widespread underprovision on Reddit](https://confluence.cornell.edu/download/attachments/301957968/gilbert13.pdf?api=v2). In Proceedings of the 2013 conference on Computer supported cooperative work (CSCW '13).|
 |7|<a name="boyd12"></a>danah boyd. 2012. [The politics of "real names"](https://confluence.cornell.edu/download/attachments/301957968/boyd12.pdf?api=v2). Commun. ACM 55, 8 (August 2012).<br/><a name="schwartz12"></a>Raz Schwartz, Xiao Ma, Funda Kivran-Swaine, Mor Naaman. Anonymous with Friends: Perceptions and Practices in Familiar Anonymity Services. In submission.|
