@@ -30,7 +30,7 @@ This is the week-by-week plan:
 |1<br/>1/22|Intro to Everything [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%201%20overview%20and%20oauth.pdf?api=v2)|||O-Auth|
 |2<br/>1/29|1-1 Communication Systems [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%202%201-1%20communications.pdf?api=v2)|Presence; Network Effects||Messaging Protocols<br/><br/>Skype, Snapchat, Facebook Messenger, Words with Friends|
 |3<br/>2/5|Groupware|||Slack, What'sApp, Hipchat, Trello|
-|4<br/>2/12|Communities and Forums||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Something Awful forums](http://forums.somethingawful.com/), [Reddit Books](http://www.reddit.com/r/books/) |
+|4<br/>2/12|Communities and Forums||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Mac Rumors forums](http://forums.macrumors.com/), [Reddit Books](http://www.reddit.com/r/books/) |
 |5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
 |6<br/>2/26|(Social) News||Content Strategy|[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
 |7<br/>3/5|Anonymous Networks|Anonymity|Measurement. <br/>Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
