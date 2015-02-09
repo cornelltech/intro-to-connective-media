@@ -32,7 +32,7 @@ This is the week-by-week plan:
 |3<br/>2/5|Groupware|||Slack, What'sApp, Hipchat, Trello|
 |4<br/>2/12|Communities and Forums||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Something Awful forums](http://forums.somethingawful.com/), [Reddit Books](http://www.reddit.com/r/books/) |
 |5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
-|6<br/>2/26|(Social) News||Content Strategy|Reddit, BuzzFeed, NY Times, Medium, Circa|
+|6<br/>2/26|(Social) News||Content Strategy|Reddit, BuzzFeed, [Digg](http://digg.com), NY Times, Medium, Circa|
 |7<br/>3/5|Anonymous Networks|Anonymity|Measurement. <br/>Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
 |8<br/>3/12|Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch|
 |9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
