@@ -32,7 +32,7 @@ This is the week-by-week plan:
 |3<br/>2/5|Groupware|||Slack, What'sApp, Hipchat, Trello|
 |4<br/>2/12|Communities and Forums||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Mac Rumors forums](http://forums.macrumors.com/), [Reddit Books](http://www.reddit.com/r/books/) |
 |5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social Design Patterns|Social APIs<br/><br/>Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
-|6<br/>2/26|(Social) News||Content Strategy<br/>Special guests: CTO and Design Lead for Digg.com |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
+|6<br/>2/26|(Social) News||Content Strategy<br/>Special guests: Michael Young (CTO) and Justin Van Slembrouck (Design Director), Digg |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
 |7<br/>3/5|Anonymous Networks|Anonymity|Measurement. <br/>Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
 |8<br/>3/12|Collaborative Platforms|Social roles and contributions ||Data Analysis<br/><br/>Wikipedia, Github, Stack Exchange, Scratch|
 |9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk||TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
