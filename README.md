@@ -34,8 +34,8 @@ This is the week-by-week plan:
 |5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social APIs |Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
 |6<br/>2/26|(Social) News||Content Strategy<br/>Special guests: Michael Young (CTO) and Justin Van Slembrouck (Design Director), Digg |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
 |7<br/>3/5|Anonymous Networks|Anonymity|Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
-|8<br/>3/12|Collaborative Platforms|Social roles and contributions| Measurement and metrics. |Wikipedia, Github, Stack Exchange, Scratch|
-|9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk|Data Analysis<br/><br/>|TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
+|8<br/>3/12|Collaborative Platforms|Social roles and contributions| Measurement and metrics. Special guest: [Glen Kushner](https://www.linkedin.com/in/glenkushner) |Wikipedia, Github, Stack Exchange, Scratch|
+|9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk|Data Analysis in iPython |TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
 |10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights|Instagram, Flickr, 500px, YouTube, Vimeo|
 |11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
 |12<br/>4/16|Online/offline and Neighborhood Tech|Privacy|Monetization|TBD|
