@@ -39,7 +39,7 @@ This is the week-by-week plan:
 |10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
 |11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
 |12<br/>4/16|Online/offline and Neighborhood Tech|Privacy|Monetization|TBD|
-|13<br/>4/23|Project Presentations||||
+|13<br/>4/23|Project Presentations|| Special guest: Helen Nissenbaum (NYU) ||
 |14<br/>4/30|Sharing Economy\*||A/B Testing|TBD|
 
 \* subject to change based on class input
