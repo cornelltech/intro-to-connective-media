@@ -38,9 +38,9 @@ This is the week-by-week plan:
 |9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk|Data Analysis in iPython |TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
 |10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
 |11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
-|12<br/>4/16|Online/offline and Neighborhood Tech|Privacy|Monetization|TBD|
-|13<br/>4/23|Project Presentations|| Special guest: Helen Nissenbaum (NYU) ||
-|14<br/>4/30|Sharing Economy\*||A/B Testing|TBD|
+|12<br/>4/16|Online/offline and Neighborhood Tech| | |NextDoor, [Ingress](http://ingress.com), iNeighbors, Swarm|
+|13<br/>4/23|Project Presentations|Privacy| Special guest: Helen Nissenbaum (NYU) ||
+|14<br/>4/30|Sharing Economy\*|| Monetization | Lyft, AirBnB, [Puddle](https://www.puddle.com/), [NeighborGoods](http://neighborgoods.net/)|
 
 \* subject to change based on class input
 ## Class Requirements
