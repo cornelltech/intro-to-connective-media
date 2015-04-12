@@ -29,15 +29,15 @@ This is the week-by-week plan:
 |:----------|:------|:----------|:--------------|:----------|
 |1<br/>1/22|Intro to Everything [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%201%20overview%20and%20oauth.pdf?api=v2)||O-Auth ||
 |2<br/>1/29|1-1 Communication Systems [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%202%201-1%20communications.pdf?api=v2)|Presence; Network Effects| Messaging Protocols<br/><br/> |Skype, Snapchat, Facebook Messenger, Words with Friends|
-|3<br/>2/5|Groupware|||Slack, What'sApp, Hipchat, Trello|
-|4<br/>2/12|Communities and Forums||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Mac Rumors forums](http://forums.macrumors.com/), [Reddit Books](http://www.reddit.com/r/books/) |
-|5<br/>2/19|Social Awareness Streams|Identity and Reputation|Social APIs |Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
-|6<br/>2/26|(Social) News||Content Strategy<br/>Special guests: Michael Young (CTO) and Justin Van Slembrouck (Design Director), Digg |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
-|7<br/>3/5|Anonymous Networks|Anonymity|Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
-|8<br/>3/12|Collaborative Platforms|Social roles and contributions| Measurement and metrics. Special guest: [Glen Kushner](https://www.linkedin.com/in/glenkushner) |Wikipedia, Github, Stack Exchange, Scratch|
-|9<br/>3/19|Crowdsourcing Systems|Amazon Mechanical Turk|Data Analysis in iPython |TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
-|10<br/>3/26|Photo/Video Sharing|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
-|11<br/>4/9|Broadcast and Entertainment|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
+|3<br/>2/5|Groupware [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%203%20groups.pdf?api=v2)|||Slack, What'sApp, Hipchat, Trello|
+|4<br/>2/12|Communities and Forums [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%204%20communities.pdf?api=v2)||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Mac Rumors forums](http://forums.macrumors.com/), [Reddit Books](http://www.reddit.com/r/books/) |
+|5<br/>2/19|Social Awareness Streams [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%205%20SAS.pdf?api=v2)|Identity and Reputation|Social APIs |Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
+|6<br/>2/26|(Social) News [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%206%20social%20news%20short.pdf?api=v2)||Content Strategy<br/>Special guests: Michael Young (CTO) and Justin Van Slembrouck (Design Director), Digg |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
+|7<br/>3/5|Anonymous Networks [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%207%20anoymous.pdf?api=v2)|Anonymity|Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
+|8<br/>3/12|Collaborative Platforms [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%208%20wikipedia%20and%20others.pdf?api=v2)|Social roles and contributions| Measurement and metrics. Special guest: [Glen Kushner](https://www.linkedin.com/in/glenkushner) |Wikipedia, Github, Stack Exchange, Scratch|
+|9<br/>3/19|Crowdsourcing Systems [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%209%20crowdsourcing.pdf?api=v2)|Amazon Mechanical Turk|Data Analysis in iPython |TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
+|10<br/>3/26|Photo/Video Sharing [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2010%20photo%20video%20sharing.pdf?api=v2)|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
+|11<br/>4/9|Broadcast and Entertainment [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2011%20entertainment%20rec%20systems%20distribution.pdf?api=v2)|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
 |12<br/>4/16|Online/offline and Neighborhood Tech| | |NextDoor, [Ingress](http://ingress.com), iNeighbors, Swarm|
 |13<br/>4/23|Project Presentations|Privacy| Special guest: Helen Nissenbaum (NYU) ||
 |14<br/>4/30|Sharing Economy\*|| Monetization | Lyft, AirBnB, [Puddle](https://www.puddle.com/), [NeighborGoods](http://neighborgoods.net/)|
