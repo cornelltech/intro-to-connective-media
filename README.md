@@ -39,8 +39,8 @@ This is the week-by-week plan:
 |10<br/>3/26|Photo/Video Sharing [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2010%20photo%20video%20sharing.pdf?api=v2)|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
 |11<br/>4/9|Broadcast and Entertainment [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2011%20entertainment%20rec%20systems%20distribution.pdf?api=v2)|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
 |12<br/>4/16|Online/offline and Neighborhood Tech| | |NextDoor, [Ingress](http://ingress.com), iNeighbors, Swarm|
-|13<br/>4/23|Project Presentations|Privacy| Special guest: Helen Nissenbaum (NYU) ||
-|14<br/>4/30|Sharing Economy\*|| Monetization | Lyft, AirBnB, [Puddle](https://www.puddle.com/), [NeighborGoods](http://neighborgoods.net/)|
+|13<br/>4/23|Sharing Economy\*|Privacy| Special guest: Helen Nissenbaum (NYU) |  Lyft, AirBnB, [Puddle](https://www.puddle.com/), [NeighborGoods](http://neighborgoods.net/) |
+|14<br/>4/30|Project Presentations| | Monetization | |
 
 \* subject to change based on class input
 ## Class Requirements
