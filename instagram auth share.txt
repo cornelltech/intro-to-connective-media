@@ -1,3 +1,6 @@
+Implicit Flow
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
+
 Authorization Flow
 
 https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
