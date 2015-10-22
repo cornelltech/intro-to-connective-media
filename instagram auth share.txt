@@ -25,3 +25,8 @@ then
 curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT>
 or
 curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT> > my_feed.txt
+
+Other types of data:
+Media search (photos near Cornell Tech)
+curl -k "https://api.instagram.com/v1/media/search?lat=40.741&lng=-74.002&access_token=<TOKEN YOU GOT>"
+
