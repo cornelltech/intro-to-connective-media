@@ -22,11 +22,11 @@ OR (Implicit Flow)
 https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
 
 then 
-curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT>
+curl -k hhttps://api.instagram.com/v1/users/self/media/recent/?access_token=<TOKEN YOU GOT>
 or
-curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT> > my_feed.txt
+curl -k hhttps://api.instagram.com/v1/users/self/media/recent/?access_token=<TOKEN YOU GOT> > my_feed.txt
 
 Other types of data:
 Media search (photos near Cornell Tech)
-curl -k "https://api.instagram.com/v1/media/search?lat=40.741&lng=-74.002&access_token=<TOKEN YOU GOT>"
+curl -k "https://api.instagram.com/v1/locations/search?lat=40.741&lng=-74.002&access_token=<TOKEN YOU GOT>"
 
